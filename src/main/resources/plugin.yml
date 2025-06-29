@@ -1,0 +1,9 @@
+name: DamageBoost
+version: '1.0'
+main: com.example.wmeogd.DamageBoost
+api-version: '1.21'
+commands:
+  damageboost:
+    description: DamageBoost 插件的主指令。
+    usage: /damageboost <sub-command> [args]
+    aliases: [db]
